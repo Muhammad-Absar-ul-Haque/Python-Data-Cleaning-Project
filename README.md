@@ -1,1 +1,1 @@
-# Python-Data-Cleaning-Project
+This project involves importing a raw e-commerce dataset, cleaning it by handling missing values, removing duplicates, and transforming data types. The cleaned data is then analyzed to identify key sales trends, such as popular products and customer demographics. Visualizations are created to illustrate findings and support business decisions.
